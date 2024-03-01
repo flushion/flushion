@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Illia! (@flushion)
-- 👀 I’m interested in iOS Development
-- 🌱 I’m currently working with Swift
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently working with JavaScript, PHP, Vue, NodeJS
 - 📫 How to reach me: illialinkevych@gmail.com
