@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Illia! (@flushion)
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently working with JavaScript, PHP, Vue, NodeJS
+- 🌱 I’m currently working with JavaScript, PHP, Vue, NodeJS, NestJS, Laravel, Livewire, Alphine.js
 - 📫 How to reach me: illialinkevych@gmail.com
